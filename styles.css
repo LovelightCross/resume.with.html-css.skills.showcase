@@ -1,0 +1,189 @@
+h1,h2,h3,p, ul
+{text-align: center;
+}
+p {
+    font-size: 12px;
+}
+h2 {
+    border-bottom: 2px solid #A3C5CF;
+    border-top: 2px solid gray;
+}
+.contact {
+    border-bottom: 2px solid #A3C5CF;
+    border-top: 2px solid #A3C5CF;
+}
+h1 {
+    line-height: 0px;
+    padding-top: 30px;
+}
+h3 {
+    line-height: 0px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}.me {
+    margin-left:70px;
+    margin-right: 70px;
+}
+.aboutme {
+    column-count: 2;
+    column-rule-width: 50px;
+    line-height: 15px;
+    margin-left: 51px;
+    margin-right: 51px;
+    padding-bottom: 30px;
+}
+
+.aboutmeleft, .aboutmeright {
+    text-align: left;
+}
+.aboutmeleft {
+    margin-top: 0px;
+    margin-right: 70px;
+}
+.aboutmeright {
+    margin-left: 20px;
+    margin-right: 70px;
+}
+.ts {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.tsleft, .tsright {
+    text-align: left;
+}
+.techskills {
+    column-count: 2;
+    column-rule-width: 50px;
+    line-height: 15px;
+    margin-left: 60px;
+    margin-right: 60px;
+    padding-bottom: 30px;
+
+}
+.tsleft {
+    margin-top: 0px;
+    margin-right: 20px;
+    margin-right:90px;
+}
+.tsright {
+margin-left: 20px;
+margin-right:90px;
+}
+.projects {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+.projectdescription {
+    text-align: left;
+    padding-top: 0px;
+    margin-top: -13px;
+    margin-left: 51px;
+    margin-right: 90px;
+
+}
+.nextlevel, .directtrade {
+text-align: left;
+font-weight: bold;
+padding-bottom: 0px;
+margin-left: 51px;
+}
+.experience {
+    margin-left: 70px;
+    margin-right: 70px;   
+}
+.positionheading {
+    font-weight: bold;
+}
+.date {
+    color: #A3C5CF;
+    margin-top: -13px;
+}
+.positionheading, .date, .description {
+    text-align: left;
+    margin-left: 51px;
+}
+.description {
+    margin-top: -13px;
+}
+.education {
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-bottom: 100px;
+}
+.depot, .other {
+    text-align: left;
+    margin-left: 51px;
+    margin-top: -13px;
+}
+.contact {
+    margin-left: 70px;
+    margin-right: 70px;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    background-color: #A3C5CF;
+    height: 50px;
+    
+}
+li {
+    display: inline;
+    color: white;
+    margin: 0.7em;
+    line-height: 50px;
+    padding-top: 0px;
+}
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid white; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px;
+    color: #A3C5CF;
+}
+#email, #name {
+    font-style: italic;
+    font-family: Garamond;
+    font-size: 20px;
+}
+#send {
+    text-align: center;
+}
+
+input[type=send] {
+    background-color: white;
+    color: #A3C5CF;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    
+}
+.container {
+    border-radius: 5px;
+    background-color: #A3C5CF;
+    padding: 20px;
+    margin-left: 240px;
+    margin-right:240px;
+    color: white;
+    margin-bottom: 50px;
+   
+}
+.linkback {
+    background-color: white;
+}
+.links {
+    color: #A3C5CF;
+    font-size: 12px;
+}
+.linkme {
+    border-top: 2px solid #A3C5CF;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.copyright {
+    color: #A3C5CF;
+    margin-top: -13px;
+}
